@@ -77,7 +77,7 @@ LIMIT 10;
 
 ## 📌 Note
 
-This project was created as part of a data science course to demonstrate SQL-based analytics on sports datasets. The data used is publicly available and purely for educational purposes.
+This project was created as part of a data science course to demonstrate SQL-based analytics on sports datasets.
 
 ---
 
